@@ -14,4 +14,4 @@ I worked on an HR dataset to find out why employees were leaving a company. I us
 - Gender and education also had some influence on attrition.
 
 ## File
-- `Employee_Retention_Analysis.xlsx`
+- `HR-Employee-Analysis.xlsx`
